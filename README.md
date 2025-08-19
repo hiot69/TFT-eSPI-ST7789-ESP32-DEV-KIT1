@@ -1,4 +1,4 @@
-# 📌 Fix Library TFT_eSPI untuk ESP32 Dev Kit
+# 📌 TFT_eSPI untuk ESP32 Dev Kit
 
 Panduan ini digunakan untuk menyesuaikan library **TFT_eSPI** agar kompatibel dengan modul **ESP32 Dev Kit** yang menggunakan layar TFT ST7789.
 
@@ -34,7 +34,6 @@ Sebelum memulai, **backup file asli** pada folder library TFT_eSPI agar mudah di
 
 Salam,
 H IoT
-TikTok: [@h_iot69](https://www.tiktok.com/@h_iot69)
 
 
 ## 📝 Lisensi
